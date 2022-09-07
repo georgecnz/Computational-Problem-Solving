@@ -1,4 +1,4 @@
-## Etude 7-- Where in the World is CS?
+# Etude 7-- Where in the World is CS?
 COSC326- Otago University
 @uthor George Churton.
 
@@ -18,17 +18,17 @@ This file can then be read by the javascript html file that is whereintheworld.h
 whereintheworld.html uses leaflet, an interactive map for javascript. 
 For simplicity, validated input can be viewed interactively on the map through the automated plotting of basic points.
 
-# Note
+## Note
 The geojson file includes an empty feature at the end of the file-- however this does not affect the useability 
 of the program and hence should be ignored. 
 
-# Running the program
+## Running the program
 1. Enter georgaphical input into input.txt
 2. Compile and run converter.java (javac converter.java) (java converter.java)
 3. Run the whereintheworld.html file on local server and the data will be plotted on a leaflet map
    be sure to use a modern web broswer in doing this.
 
-# Testing
+## Testing
 
 Input:
 
