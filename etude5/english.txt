@@ -1,0 +1,27 @@
+You (1 incl) went
+You (2 incl) went
+I will make
+They (2 incl) will make 
+They (2 excl) went 
+She is wanting 
+She is going 
+They are going
+They are making
+She is making
+NEXTCHECK
+They (4 excl) read
+You (10 incl) went
+She will read
+NEXTCHECK
+I wanted 
+I called
+You (4 incl) are calling
+NEXTCHECK
+We (3 excl) are going
+I am going
+They (2 excl) are reading
+You (2 incl) are reading
+I went
+I will go
+gibberish
+We are coming
