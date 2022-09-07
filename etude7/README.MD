@@ -1,4 +1,4 @@
-Etude 7-- Where in the World is CS?
+## Etude 7-- Where in the World is CS?
 COSC326- Otago University
 @uthor George Churton.
 
